@@ -1,5 +1,11 @@
 # Paris Metro Route Finder
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Ada-2012-blue.svg" alt="Ada 2012">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+</p>
+
+
 An Ada program that finds the shortest route between two metro stations in the Paris metro network.
 
 ## Features
