@@ -135,6 +135,7 @@ The program uses:
 ## Implementation Notes
 
 - Built with Ada 2012
+
 - Uses `Ada.Containers` for dynamic data structures
 - Supports UTF-8 station names with French characters
 - Bidirectional metro lines (can travel in both directions)
